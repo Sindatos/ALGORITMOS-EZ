@@ -1,2 +1,0 @@
-# ALGORITMOS-EZ
-dad
